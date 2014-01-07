@@ -6,6 +6,6 @@
 
 ・演習で作成したプログラムを公開していきます。
 
-これまでの演習内容
+演習wiki
 
 https://github.com/ddt48hm/1123052_kawaguchi/wiki
