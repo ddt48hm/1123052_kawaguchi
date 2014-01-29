@@ -1,0 +1,14 @@
+C:\Users\1123052\Desktop\Kinect3\DaruMA_project\DaruMA_project\bin\Debug\DaruMA_project.exe
+C:\Users\1123052\Desktop\Kinect3\DaruMA_project\DaruMA_project\bin\Debug\DaruMA_project.pdb
+C:\Users\1123052\Desktop\Kinect3\DaruMA_project\DaruMA_project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\1123052\Desktop\Kinect3\DaruMA_project\DaruMA_project\obj\x86\Debug\MainWindow.baml
+C:\Users\1123052\Desktop\Kinect3\DaruMA_project\DaruMA_project\obj\x86\Debug\MainWindow.g.cs
+C:\Users\1123052\Desktop\Kinect3\DaruMA_project\DaruMA_project\obj\x86\Debug\App.g.cs
+C:\Users\1123052\Desktop\Kinect3\DaruMA_project\DaruMA_project\obj\x86\Debug\DaruMA_project_Content.g.cs
+C:\Users\1123052\Desktop\Kinect3\DaruMA_project\DaruMA_project\obj\x86\Debug\DaruMA_project_MarkupCompile.cache
+C:\Users\1123052\Desktop\Kinect3\DaruMA_project\DaruMA_project\obj\x86\Debug\DaruMA_project.g.resources
+C:\Users\1123052\Desktop\Kinect3\DaruMA_project\DaruMA_project\obj\x86\Debug\DaruMA_project.Properties.Resources.resources
+C:\Users\1123052\Desktop\Kinect3\DaruMA_project\DaruMA_project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\1123052\Desktop\Kinect3\DaruMA_project\DaruMA_project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\1123052\Desktop\Kinect3\DaruMA_project\DaruMA_project\obj\x86\Debug\DaruMA_project.exe
+C:\Users\1123052\Desktop\Kinect3\DaruMA_project\DaruMA_project\obj\x86\Debug\DaruMA_project.pdb
