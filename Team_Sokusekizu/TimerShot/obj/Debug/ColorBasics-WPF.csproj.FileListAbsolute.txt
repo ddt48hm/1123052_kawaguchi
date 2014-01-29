@@ -1,0 +1,13 @@
+C:\Users\1123052\Documents\GitHub\kinect\group\Team_Sokusekizu\TimerShot\bin\Debug\ColorBasics-WPF.exe
+C:\Users\1123052\Documents\GitHub\kinect\group\Team_Sokusekizu\TimerShot\bin\Debug\ColorBasics-WPF.pdb
+C:\Users\1123052\Documents\GitHub\kinect\group\Team_Sokusekizu\TimerShot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1123052\Documents\GitHub\kinect\group\Team_Sokusekizu\TimerShot\obj\Debug\MainWindow.baml
+C:\Users\1123052\Documents\GitHub\kinect\group\Team_Sokusekizu\TimerShot\obj\Debug\MainWindow.g.cs
+C:\Users\1123052\Documents\GitHub\kinect\group\Team_Sokusekizu\TimerShot\obj\Debug\App.g.cs
+C:\Users\1123052\Documents\GitHub\kinect\group\Team_Sokusekizu\TimerShot\obj\Debug\ColorBasics-WPF_MarkupCompile.cache
+C:\Users\1123052\Documents\GitHub\kinect\group\Team_Sokusekizu\TimerShot\obj\Debug\ColorBasics-WPF.g.resources
+C:\Users\1123052\Documents\GitHub\kinect\group\Team_Sokusekizu\TimerShot\obj\Debug\Microsoft.Samples.Kinect.ColorBasics.Properties.Resources.resources
+C:\Users\1123052\Documents\GitHub\kinect\group\Team_Sokusekizu\TimerShot\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\1123052\Documents\GitHub\kinect\group\Team_Sokusekizu\TimerShot\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\1123052\Documents\GitHub\kinect\group\Team_Sokusekizu\TimerShot\obj\Debug\ColorBasics-WPF.exe
+C:\Users\1123052\Documents\GitHub\kinect\group\Team_Sokusekizu\TimerShot\obj\Debug\ColorBasics-WPF.pdb
