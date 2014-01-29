@@ -1,0 +1,24 @@
+﻿<Window x:Class="kamae.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="KamaeTool" Height="778" Width="735" Loaded="Window_Loaded">
+    <Grid>
+        <Canvas Margin="12,12,12,301" Name="canvas1" Background="#FF161111"></Canvas>
+        <Label Content="構え姿勢" Height="28" HorizontalAlignment="Left" Margin="26,465,0,0" Name="label1" VerticalAlignment="Top" Width="71" FontSize="16" />
+        <Label Content="構え1" Height="28" HorizontalAlignment="Left" Margin="26,523,0,0" Name="label2" VerticalAlignment="Top" Width="71" FontSize="16" />
+        <Label Content="構え2" Height="28" HorizontalAlignment="Left" Margin="26,580,0,0" Name="label3" VerticalAlignment="Top" Width="71" FontSize="16" />
+        <Label Content="Label" Height="28" HorizontalAlignment="Left" Margin="119,641,0,0" Name="label5" VerticalAlignment="Top" Width="71" FontSize="16" />
+        <Label Content="Label" Height="28" HorizontalAlignment="Left" Margin="119,580,0,0" Name="label6" VerticalAlignment="Top" Width="71" FontSize="16" />
+        <Label Content="Label" Height="28" HorizontalAlignment="Left" Margin="119,523,0,0" Name="label7" VerticalAlignment="Top" Width="71" FontSize="16" />
+        <Label Content="Kamaedata" Height="28" HorizontalAlignment="Left" Margin="119,465,0,0" Name="label8" VerticalAlignment="Top" Width="100" FontSize="16" />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="243,470,0,0" Name="slider1" VerticalAlignment="Top" Width="206" Maximum="100" Minimum="-50" Value="75" />
+        <Button Content="姿勢を保存" Height="36" HorizontalAlignment="Left" Margin="528,462,0,0" Name="button1" VerticalAlignment="Top" Width="128" Click="button1_Click" />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="243,523,0,0" Name="slider2" VerticalAlignment="Top" Width="206" Maximum="100" LargeChange="0.01" Minimum="-50" Value="75" />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="243,580,0,0" Name="slider3" VerticalAlignment="Top" Width="206" Maximum="100" Minimum="-50" Value="75" />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="243,646,0,0" Name="slider4" VerticalAlignment="Top" Width="206" />
+        <Label Content="構え時間" Height="28" Name="label4" Width="71" Margin="26,641,616,70" FontSize="16" />
+        <Label Content="Label" Height="28" HorizontalAlignment="Left" Margin="300,675,0,0" Name="label9" VerticalAlignment="Top" FontSize="20" />
+        <Button Content="姿勢を保存" Height="36" HorizontalAlignment="Left" Margin="528,0,0,185" Name="button2" VerticalAlignment="Bottom" Width="128" Click="button2_Click" />
+        <Button Content="姿勢を保存" Height="38" HorizontalAlignment="Left" Margin="528,570,0,0" Name="button3" VerticalAlignment="Top" Width="128" Click="button3_Click" />
+    </Grid>
+</Window>
